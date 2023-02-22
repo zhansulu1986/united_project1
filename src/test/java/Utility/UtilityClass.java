@@ -18,6 +18,7 @@ public class UtilityClass {
 
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 
+
     }
 
     public static void quitDriver(int time){
